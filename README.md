@@ -37,4 +37,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 https://ui.shadcn.com/docs/installation/next
 npx shadcn@latest add button
+https://dashboard.clerk.com/apps/app_2qSSbZDqLskhpViDxmi5E1rCWYF/instances/ins_2qSSblwdXRr6EA9Gc7j1CbrLlDS
+
 
